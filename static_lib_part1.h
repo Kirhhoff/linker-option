@@ -1,0 +1,1 @@
+void static_part1_routine();
